@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "Dave",
+      "email": "Dave@dave.com",
+      "age": 30
+    },
+    {
+      "id": "4",
+      "name": "Danny",
+      "email": "Danny@dave.com",
+      "age": 42
+    },
+    {
+      "name": "Prashant",
+      "email": "Prashant@gmail.com",
+      "age": 25,
+      "id": "iExz6t1"
+    },
+    {
+      "name": "kanika",
+      "email": "Kanika@sellcraft.net",
+      "age": 35,
+      "id": "7WY5HrC"
+    }
+  ]
+}
